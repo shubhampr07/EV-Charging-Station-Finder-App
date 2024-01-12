@@ -31,6 +31,3 @@ export default function SearchBar({searchedLocation}) {
     </View>
   )
 }
-
-//AIzaSyBcU31jYY_J9LUqn5IO6fbaBWxsOrU01qU
-//AIzaSyAwqrllZk67b44kTlkiQJ_813ixpqy4Ffk
