@@ -24,13 +24,10 @@ export default function SearchBar({searchedLocation}) {
         searchedLocation(details?.geometry?.location)
       }}
       query={{
-        key: 'AIzaSyBcU31jYY_J9LUqn5IO6fbaBWxsOrU01qU',
+        key: API_KEY,
         language: 'en',
       }}
     />
     </View>
   )
 }
-
-//AIzaSyBcU31jYY_J9LUqn5IO6fbaBWxsOrU01qU
-//AIzaSyAwqrllZk67b44kTlkiQJ_813ixpqy4Ffk
